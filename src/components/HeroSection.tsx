@@ -10,11 +10,10 @@ const HeroSection = () => {
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 font-montserrat">
             FORWARD R&D{" "}
           </h1>
-          <p className="text-xl md:text-2xl text-slate-300 mb-8 max-w-2xl mx-auto">
+          <p className="text-xl md:text-2xl text-slate-300 mb-8 max-w-2xl mx-auto text-left">
             Компания ООО "ФОРВАРД Рисерч энд Девелопмент" Разработка решений для
             автоматизации Системы промышленной телематики Системы предиктивной
-            диагностики Техническая поддержка и сервис технически сложного
-            оборудования
+            диагностики Техническая поддержка и сервис сложного оборудования
           </p>
         </div>
 
