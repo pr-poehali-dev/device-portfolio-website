@@ -8,11 +8,13 @@ const HeroSection = () => {
         <div className="mb-8 animate-fade-in">
           <Icon name="Zap" size={64} className="text-purple-400 mx-auto mb-6" />
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 font-montserrat">
-            TechCraft
+            FORWARD R&D{" "}
           </h1>
           <p className="text-xl md:text-2xl text-slate-300 mb-8 max-w-2xl mx-auto">
-            Создаём будущее через код и технологии. Разработка программного
-            обеспечения и электронных устройств.
+            Компания ООО "ФОРВАРД Рисерч энд Девелопмент" Разработка решений для
+            автоматизации Системы промышленной телематики Системы предиктивной
+            диагностики Техническая поддержка и сервис технически сложного
+            оборудования
           </p>
         </div>
 
